@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trailblazer-f"
+version = "0.1.0"
+description = "Frozen structured speculative flow inference for SimWAM and DriveWAM"
+requires-python = ">=3.10"
+dependencies = ["numpy", "Pillow", "PyYAML", "torch>=2.6"]
+
+[project.scripts]
+trailblazer-f = "trailblazer_f.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["trailblazer_f*"]

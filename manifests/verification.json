@@ -1,0 +1,12 @@
+{
+  "cpu_only": true,
+  "draft_forward_bit_exact": true,
+  "projection_bit_exact": true,
+  "simwam_production_verifier_bit_exact": true,
+  "drivewam_production_verifier_bit_exact": true,
+  "official_navtrain_navtest_split_checked": true,
+  "train_test_recording_disjoint": true,
+  "cpu_unit_tests_passed": 6,
+  "gpu_tested": false,
+  "full_evaluation_tested": false
+}

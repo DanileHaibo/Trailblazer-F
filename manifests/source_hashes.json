@@ -1,0 +1,8 @@
+{
+  "paper_simwam.py": "e0ecaed9415d1ab17639d04a8710f9834601fd1109af0caa9dc62c96703a7d16",
+  "paper_drivewam_full.py": "aca5689e683b227cedbbdc77cd111b1eeb42ef9fb9c51272f603a9bc2f6837f1",
+  "paper_drivewam_evaluate.py": "7d0dec73c6c9da4a0045f4373b05eea97bb1551e367b64c432a3da954f10a1df",
+  "paper_drivewam_train.py": "0cdc74477bfac82355e6729a851c3ec9a0b658a1ec2c46967fae81aed23b85d9",
+  "test_speculative_drivewam.py": "a3330f0aa131d4a12cba76ac2c2a2770d40e5c55089cd27e89e0ca8c7452fa87",
+  "test_simwam_baseline.py": "381ba2d411f8312621dee591d50584e45df90afed03fce512532ba7d6b2a0d35"
+}

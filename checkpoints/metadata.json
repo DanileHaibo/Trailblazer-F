@@ -1,0 +1,43 @@
+{
+  "simwam": {
+    "source_sha256": "f93406a13c28d8dce0a01d2060c5b4d6cdf393e43254434da8a748f2301dd827",
+    "export_sha256": "acdd9134ce192612e1979cc4edc21eb8b9cf3007f48ba0fe52737c056f829bb3",
+    "bytes": 5289107,
+    "keys": [
+      "best_validation_mse",
+      "config",
+      "draft",
+      "frozen",
+      "iteration",
+      "projection",
+      "schema",
+      "train_recordings",
+      "validation_recordings"
+    ],
+    "frozen": true,
+    "projection_shape": [
+      3072,
+      256
+    ]
+  },
+  "drivewam": {
+    "source_sha256": "13254b72e27ddcb620b193bf4e85a4431b0271051b12fafced3459da34308473",
+    "export_sha256": "01ba1a393042787755786142acec4ca2d9deb2ab93b1146d3f83ee070b05462e",
+    "bytes": 5323503,
+    "keys": [
+      "feature_dim",
+      "frozen",
+      "manifest_identity",
+      "mode",
+      "model",
+      "projection",
+      "step",
+      "validation_loss"
+    ],
+    "frozen": true,
+    "projection_shape": [
+      3072,
+      256
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "file_count_excluding_inventory": 25,
+  "bytes_excluding_inventory": 12764929,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 92,
+      "sha256": "534c72c0f185b8dc6ca23dae9fcef4910d9a33eea6fcb2f769a4344395fb63fb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 11630,
+      "sha256": "fc5599ae344473c7ad43496bd97000806538bdbdf2e9a26e4f9afb6d7ba923a6"
+    },
+    {
+      "path": "checkpoints/drivewam_draft.pt",
+      "bytes": 5323503,
+      "sha256": "01ba1a393042787755786142acec4ca2d9deb2ab93b1146d3f83ee070b05462e"
+    },
+    {
+      "path": "checkpoints/metadata.json",
+      "bytes": 971,
+      "sha256": "6c47228666a63806a99b34d16ba46126241ca637ead01a46e8b0b406e9ab4346"
+    },
+    {
+      "path": "checkpoints/simwam_draft.pt",
+      "bytes": 5289107,
+      "sha256": "acdd9134ce192612e1979cc4edc21eb8b9cf3007f48ba0fe52737c056f829bb3"
+    },
+    {
+      "path": "configs/main.json",
+      "bytes": 391,
+      "sha256": "a89a0ac4f446d737cb60886831fc0539f60f195246fe29035e6b1e4182e22663"
+    },
+    {
+      "path": "manifests/navtest.json",
+      "bytes": 2078079,
+      "sha256": "23bf1438b5ead73aa76b63c6a475515757bfa219106499d1265b69b115b366e7"
+    },
+    {
+      "path": "manifests/source_hashes.json",
+      "bytes": 584,
+      "sha256": "495af8c17fd4caecfcc00ba5c6b9bf47aa25f3f7e272e4db856589bb2ee7e721"
+    },
+    {
+      "path": "manifests/training_provenance.json",
+      "bytes": 2103,
+      "sha256": "7ac1bc56e7b43400e3425c4621eb6669748ea2192ead1cbcfe3c92973c9e493e"
+    },
+    {
+      "path": "manifests/verification.json",
+      "bytes": 368,
+      "sha256": "6602d5f7ad746297549d5f23eacc6a4f8ea048ece63aaa726b12bd075e529378"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 446,
+      "sha256": "6cd09d22ca67fef1a886bad310123c976651a6d380bc767bd271adb71e675dd5"
+    },
+    {
+      "path": "scripts/audit_release.py",
+      "bytes": 1594,
+      "sha256": "46ffa749d3e55920ca0b6762caf1bee6121e32d389e33c37e295ec6f0d550d02"
+    },
+    {
+      "path": "scripts/download_weights.py",
+      "bytes": 1587,
+      "sha256": "95e00f98da8449a50844bb09811307ffffc65904da19d2a770f54ec4dabf7290"
+    },
+    {
+      "path": "scripts/export_release.py",
+      "bytes": 7433,
+      "sha256": "f6ae1fb91bf86c376a57e3962a049249caa405a99312f046ffdd1f0212dc8fd0"
+    },
+    {
+      "path": "scripts/setup_upstreams.py",
+      "bytes": 4676,
+      "sha256": "fa65a0e34a75edbffae95abb0f61f7f0a98a259945ef7c51c16be9135291556d"
+    },
+    {
+      "path": "scripts/verify_export.py",
+      "bytes": 4760,
+      "sha256": "12be63e5d51017ed91be8693ac56fa0b005fd4894e04dd3033c8ed4681b852f4"
+    },
+    {
+      "path": "src/trailblazer_f/__init__.py",
+      "bytes": 89,
+      "sha256": "fa78c35e53805202cfffda5b4cff6612ef5c4ed9ee219912b42aaf66cd1a4314"
+    },
+    {
+      "path": "src/trailblazer_f/acceptance.py",
+      "bytes": 586,
+      "sha256": "ec5cd7e99bc168282d9b658e2f1cc76873451dfb56f0003649a3c71403747956"
+    },
+    {
+      "path": "src/trailblazer_f/cli.py",
+      "bytes": 11383,
+      "sha256": "9a2a121245e395bb34569b91fed71f345403d7843e1d87c837356a70096a711f"
+    },
+    {
+      "path": "src/trailblazer_f/drafts.py",
+      "bytes": 1164,
+      "sha256": "999a0f265f312eb9f7f216e0920a4a6c90896bae419c292be23e14d6f779626d"
+    },
+    {
+      "path": "src/trailblazer_f/drive_core.py",
+      "bytes": 4212,
+      "sha256": "846f14924a1244591fb79aedd3b0207802e9c94063421d01a62d3d4f172a94e9"
+    },
+    {
+      "path": "src/trailblazer_f/runtime.py",
+      "bytes": 8528,
+      "sha256": "5fd7b5827c05afe33c71f593e778abe6c41a4e24acee6d026d246d2aca467d61"
+    },
+    {
+      "path": "src/trailblazer_f/sim_core.py",
+      "bytes": 4410,
+      "sha256": "3769f2fc83e5a7b8bccd867ac28b77bbaed211748ba7a3405b7c91cbe8506703"
+    },
+    {
+      "path": "src/trailblazer_f/sim_loader.py",
+      "bytes": 3190,
+      "sha256": "99a412cf8021b1d171ddf9749bded74b78e307c70667873199ab082315fa4f09"
+    },
+    {
+      "path": "tests/test_cpu.py",
+      "bytes": 4043,
+      "sha256": "5ea06b1ae4f003cae14a4c290057320742a91a98e51b2e4e0faba06b40c16c29"
+    }
+  ]
+}

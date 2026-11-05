@@ -1,0 +1,16 @@
+{
+  "seed": 200,
+  "dtype": "bfloat16",
+  "steps": 10,
+  "block": 10,
+  "acceptance": "max-row RMS, FP32 residual, strict < epsilon, continuous prefix",
+  "simwam_epsilon": 0.0375,
+  "drivewam_epsilon": 0.1,
+  "quality_scenes": 12146,
+  "latency_scenes": 88,
+  "recordings": 44,
+  "latency_warmups": 3,
+  "latency_repeats": 3,
+  "drivewam_video_steps": 3,
+  "drivewam_video_fraction": 0.6
+}
